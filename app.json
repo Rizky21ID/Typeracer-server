@@ -1,6 +1,6 @@
 {
-  "name": "Typeracer Socket.io",
-  "description": "Typeracer server socket.io",
-  "repository": "https://github.com/Rizky21ID/Typeracer-server/",
+  "name": "Node.js Socket.io Example",
+  "description": "Part of the Using WebSockets on Heroku Tutorial",
+  "repository": "https://github.com/Rizky21ID/Typeracer-server",
   "keywords": ["node", "websocket", "socket.io"]
 }
