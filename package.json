@@ -17,5 +17,10 @@
     "socket.io": "^2.3.0",    
     "netlify-lambda": "^1.4.3",
     "serverless-http": "^1.9.1"
-  }
+  },
+  "scripts": {
+		"start:ts": "npx tsc -w",
+		"start:js": "npx nodemon build/index.js",
+		"start": "concurrently yarn:start:*"
+	}
 }
