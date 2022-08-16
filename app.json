@@ -1,0 +1,6 @@
+{
+  "name": "Typeracer Socket.io",
+  "description": "Typeracer server socket.io",
+  "repository": "https://github.com/Rizky21ID/Typeracer-server/",
+  "keywords": ["node", "websocket", "socket.io"]
+}
